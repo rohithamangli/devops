@@ -1,7 +1,16 @@
 <html>
-	<head> hello java </head>
-<body>
-<h2><%= "Hello World!" %></h2>
-<h2>bye</h2>
-</body>
+<head>facebook</head>
+<body bgcolor="green">
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form></body>
 </html>
+
+
+
+
+
+
